@@ -4,5 +4,5 @@
   </p> 
 
 
-- 🔭 I'm an Automotive software engineer intern at [@Sprints](https://sprints.ai/)
+- 🔭 I'm an Automotive Software Engineer intern at [@Sprints](https://sprints.ai/)
 
