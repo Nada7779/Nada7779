@@ -4,7 +4,5 @@
   </p> 
   <img src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ascensiongamedev.com%2Ftopic%2F920-github-profiles%2F&psig=AOvVaw0LrhmKpNu2QLSp1gXLIEnj&ust=1689823815177000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDribfqmYADFQAAAAAdAAAAABAE" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
-
 - 🔭 I'm an Automotive software engineer intern at [@Sprits]
 
